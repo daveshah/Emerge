@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/xDD-CLE/Emergent.svg?branch=master)](https://travis-ci.org/xDD-CLE/Emergent)
+[![Coverage Status](https://coveralls.io/repos/xDD-CLE/Emergent/badge.svg?branch=master&service=github)](https://coveralls.io/github/xDD-CLE/Emergent?branch=master)
 # Emergent
 An RSpec and Cucumber inspired testing framework for Java with the goal of helping better designs emerge through expressive tests  
 ## Show me the code!
